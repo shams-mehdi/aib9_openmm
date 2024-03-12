@@ -1,6 +1,6 @@
 # aib9_openmm
 
-Working protocol for setting up solvated Aib9 system and running production MD simulation in OpenMM.
+Working protocol for setting up solvated Aib9 system using Charmm36m forcefield and running long MD simulation (NPT) in OpenMM.
 1. Create a conda environment from the requirements.txt by running the command below
 ```
 conda create --name aib9 --file requirements.txt
