@@ -4,8 +4,9 @@ Working protocol for setting up solvated Aib9 system using Charmm36m forcefield 
 1. Create a conda environment from the requirements.txt by running the command below
 ```
 conda create --name aib9 --file requirements.txt
+conda activate aib9
 ```
-2. Open and run aib9.ipynb
+2. Open and run aib9.ipynb using jupyterlab
 
 If you are using this repository for running Aib9 simulations, please cite the following paper:
 ```
