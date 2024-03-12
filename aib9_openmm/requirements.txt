@@ -1,0 +1,10 @@
+openmm
+plumed
+openmm-plumed=1.0
+numpy
+matplotlib
+pandas
+mdtraj
+mdanalysis
+pdbfixer
+parmed
