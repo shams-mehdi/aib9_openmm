@@ -8,3 +8,4 @@ mdtraj
 mdanalysis
 pdbfixer
 parmed
+jupyterlab
