@@ -9,3 +9,6 @@ mdanalysis
 pdbfixer
 parmed
 jupyterlab
+nglview
+mdanalysis
+mdtraj
