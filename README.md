@@ -3,7 +3,7 @@
 Working protocol for setting up solvated Aib9 system using Charmm36m forcefield and running long MD simulation (NPT) in OpenMM.
 1. Create a conda environment from the requirements.txt by running the command below
 ```
-conda create --name aib9 --file requirements.txt
+conda create --name aib9 --file requirements.txt -c conda-forge
 conda activate aib9
 ```
 2. Open and run aib9.ipynb using jupyterlab. The following command should open jupyterlab in your browser.
